@@ -1,6 +1,6 @@
 {
   "name": "fetch-task",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "fetch API as a Task.",
   "license": "MIT",
   "repository": "hemanth/fetch-task",
